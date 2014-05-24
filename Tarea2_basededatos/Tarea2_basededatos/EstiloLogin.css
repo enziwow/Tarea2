@@ -1,0 +1,44 @@
+﻿body 
+{
+    margin:0;
+    padding:0;
+    color:#555;
+    font-size:12px;
+    line-height:17px;
+    font-family:"calibri";
+    background-color:#fff;
+    background-position: center top;
+    background-repeat:no-repeat;
+}
+
+
+h2
+{
+    text-align: center;
+    
+}
+
+a, a:link,a:visited
+{
+   color:#990000;
+   font-weight: normal;
+   text-decoration: none;
+
+}
+
+a:hover
+{
+    
+    text-decoration:underline;
+}
+
+#content_Login
+{
+    
+    overflow:hidden;
+    width:720px;
+    position:relative;
+    padding-bottom:10px;
+}
+
+

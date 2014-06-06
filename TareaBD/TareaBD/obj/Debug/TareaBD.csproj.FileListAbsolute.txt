@@ -1,0 +1,5 @@
+c:\users\enziwow\documents\visual studio 2010\Projects\TareaBD\TareaBD\bin\TareaBD.dll
+c:\users\enziwow\documents\visual studio 2010\Projects\TareaBD\TareaBD\bin\TareaBD.pdb
+c:\users\enziwow\documents\visual studio 2010\Projects\TareaBD\TareaBD\obj\Debug\TareaBD.dll
+c:\users\enziwow\documents\visual studio 2010\Projects\TareaBD\TareaBD\obj\Debug\TareaBD.pdb
+C:\Users\Enziwow\documents\visual studio 2010\Projects\TareaBD\TareaBD\obj\Debug\TareaBD.csprojResolveAssemblyReference.cache

@@ -1,4 +1,0 @@
-c:\users\enziwow\documents\visual studio 2010\Projects\Tarea2_basededatos\Tarea2_basededatos\bin\Tarea2_basededatos.dll
-c:\users\enziwow\documents\visual studio 2010\Projects\Tarea2_basededatos\Tarea2_basededatos\bin\Tarea2_basededatos.pdb
-c:\users\enziwow\documents\visual studio 2010\Projects\Tarea2_basededatos\Tarea2_basededatos\obj\Debug\Tarea2_basededatos.dll
-c:\users\enziwow\documents\visual studio 2010\Projects\Tarea2_basededatos\Tarea2_basededatos\obj\Debug\Tarea2_basededatos.pdb
